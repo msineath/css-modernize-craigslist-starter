@@ -113,3 +113,34 @@ ul.clfooter > li {
 h4.ban::before {
   content:'☮';
 }
+
+td {
+  border: 1px, solid, #333;
+}
+
+table.cal {
+  border-collapse: collapse;
+}
+
+link {
+  color: green;
+  font-weight: bold;
+}
+
+table.cal > td {
+  align-content: center;
+}
+
+.past {
+  color: rgb(0,0,0,0.5);
+  cursor: not-allowed;
+}
+
+.today > a {
+  background-color: darkviolet;
+  color: white;
+}
+
+td:hover {
+  background-color: lavender;
+}
