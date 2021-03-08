@@ -144,3 +144,19 @@ table.cal > td {
 td:hover {
   background-color: lavender;
 }
+
+#chlang:focus {
+  background-color: black;
+}
+
+ul:first-child {
+  background-color: lime;
+}
+
+li:nth-child(3) {
+  background-color: violet;
+}
+
+td:nth-child(3) {
+  font-size: 200px;
+}
